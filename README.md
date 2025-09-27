@@ -10,8 +10,7 @@ Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtig
 - Sollten auf dem USB Stick weniger als 100mb Speicherplatz verbleiben, wird das letzte Video gelöscht (Status LED zeigt das durch blau farbe an)
 - Zu jedem Video wird eine CSV Datei mit GPS Daten, Zeit und Abstand gespeichert.
 
-# OpenBikeDashcam-Firmware
-Software und Einrichtung der Open Bike Dashcam. Das Projekt unterliegt den folgnden Lizenzen: 
+# Lizenz
 Software: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
 Hardware: CERN Open Hardware Licence Version 2 - Strongly Reciprocal
 
