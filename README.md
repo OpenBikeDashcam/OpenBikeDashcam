@@ -2,6 +2,8 @@
 
 
 # OpenBikeDashcam - Kurzbeschreibung
+![Screenshot des Videos mit der WebApp](OpenBikeDashcam.jpg)  
+
 Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtigen und seitlichen Verkehrs aufnimmt. Zusätzlich wird mit einem Abstandssensor der Überholabstand der vorbeifahrenden Autos ermittelt und im Video angezeigt. Folgende Funktionen sind bereits integriert: 
 
 - Videoaufnahme in Sequenzen von einstellbarer Länge (z.B. 30Sekunden)  
