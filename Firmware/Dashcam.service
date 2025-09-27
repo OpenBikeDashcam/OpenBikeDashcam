@@ -1,0 +1,12 @@
+[Unit]
+Description=Startet mein Python-Skript beim Booten
+After=multi-user.target
+[Service]
+Type=simple
+User=pi
+WorkingDirectory=<pfad-zum-projekt>
+ExecStart=<pfad-zur-venv>/bin/python3 <pfad-zum-skript>
+Restart=on-failure
+Environment=PYTHONUNBUFFERED=1
+[Install]
+WantedBy=multi-user.target
