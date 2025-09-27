@@ -1,7 +1,7 @@
 ----- Das ist die erste, veröffentlichte Version der Dashcam. Sie enthält noch ein paar Bugs und Verbesserungsmöglichkeiten, die demnächst bearbeitet werden ---------  
 
 
-# OpenBikeDashcam - Kurzbeschreibung
+# Kurzbeschreibung
 <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
  
 
