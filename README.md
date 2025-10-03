@@ -5,7 +5,7 @@
 <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
  
 
-Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtigen und seitlichen Verkehrs aufnimmt. Zusätzlich wird mit einem Abstandssensor der Überholabstand der vorbeifahrenden Autos ermittelt und im Video angezeigt. Folgende Funktionen sind bereits integriert: 
+Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtigen und seitlichen Verkehrs aufnimmt. Zusätzlich wird mit einem Abstandssensor der Überholabstand der vorbeifahrenden Autos ermittelt und im Video angezeigt. Über das Smartphone Display kann der letzte Überholabstand live überprüft werden. Folgende Funktionen sind bereits integriert: 
 
 - Videoaufnahme in Sequenzen von einstellbarer Länge (z.B. 30Sekunden)  
 - Speicherung auf USB Stick nur, wenn während der Aufnahmezeit eines Segmentes der Sicherheitsabstand unterschritten wurde. sonst wird das Segment gelöscht.  
@@ -14,8 +14,10 @@ Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtig
 - Zu jedem Video wird eine CSV Datei mit GPS Daten, Zeit und Abstand gespeichert.
 
 # Ausblick: demnächst verfügbare Funktionen  
+- ich arbeite aktuell an einem Gehäuse mit Schnellwechseladapter für die Sattelstange.
+- ein Schnellwechseladapter für den Lenker (Rennrad und Trekking Lenker kommt auch)
+- Upgrade auf richtiges UPS (Energieversorgung) statt einer Power bank. 
 - weitere Fahrradcomputer-Funktionen in der WebApp (Max-Geschwindigkeit, Durchschnittsgeschwindigkeit, Fahrzeit, Fahrstecke in km. Alles seit dem letzten Programmstart und seit Inbetriebnahme der Dashcam)
-- bisher gibt es noch kein Gehäuse für die Dashcam. Die Entwicklung ist aber in Arbeit. 
 
 # Lizenz
 Software: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007  
