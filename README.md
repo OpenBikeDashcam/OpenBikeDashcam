@@ -4,7 +4,7 @@
 # Kurzbeschreibung
 <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
  
-Die hier hoch geladene Dashcam ist als klassische Dashcam und speziell für Fahrräder konzipiert. Darüber hinaus ist es aber auch eine Entwicklungsbasis für eure eigenen Projekte/Forschungsprojekte. Die Daten können exportiert und analysiert werden. Alles, auch der Code ist offen zugänglich und kann angepasst werden. Erweiterung durch Taster, Sensoren, etc. ist alles möglich. 
+Die hier hoch geladene Dashcam ist als klassische Dashcam und speziell für Fahrräder konzipiert. Als Hardware wird ein Raspberry Pi 5 (CM5) verwendet. Darüber hinaus ist es aber auch eine Entwicklungsbasis für eure eigenen Projekte/Forschungsprojekte. Die Hardware kann selbst aufgebaut und angepasst werden. Die Daten können exportiert und analysiert werden. Alles, auch der Code ist offen zugänglich und kann für die eigenen Projekte verändert werden. Erweiterung durch Taster, Sensoren, etc. ist alles möglich. 
 
 Das Projekt besteht aus einer Dashcam fürs Fahrrad, die Videos des rückwärtigen und seitlichen Verkehrs aufnimmt. Zusätzlich wird mit einem Abstandssensor der Überholabstand der vorbeifahrenden Autos ermittelt und im Video angezeigt. Über das Smartphone Display kann der letzte Überholabstand live überprüft werden. Folgende Funktionen sind bereits integriert: 
 
