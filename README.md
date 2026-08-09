@@ -1,6 +1,19 @@
 update 09.08.2026
-eine neue Version steht kurz vor der Veröffentlichung. Hier die main features: 
+eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
+- Wechsel vom Pi 5 auf den Raspberry Pi Zero2
+- eingebautes GPS (unabhängig von Smartphone)
+- live Abstand wird per universellem bluetooth heart rate value gestreamt (kein Einwählen in einen hotspot mehr notwendig)
+- weitere live Infos über eigenen bluetooth Service
+  (gewähltes Fahrrad, überholabstand, Geschwindigkeit, status der 3 user Taster,
+  GPS fix, GPS Satellitenanzahl, freier Speicher auf microSD Karte)
+- 3 User Taster zur eigenen Verwendung (jeder Taster speichert aktuelles Videosegment)
+- Gehäuse mit quick-release Mechanismus
+- Power-Button
+- leichter Zugang zur sd Karte
+- usb-c anschluss, um während der Fahrt die Reichweite zu erhöhen
 
+ <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
+ 
 
 
 ----- Das ist die erste, veröffentlichte Version der Dashcam. Sie enthält noch Bugs und Verbesserungsmöglichkeiten, die demnächst bearbeitet werden ---------  
