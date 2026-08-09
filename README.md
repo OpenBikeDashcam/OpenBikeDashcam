@@ -1,6 +1,6 @@
-update 09.08.2026
+update 09.08.2026: Version 2 kommt!
 eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
-- Wechsel vom Pi 5 auf den Raspberry Pi Zero2
+- Wechsel vom Pi 5 auf den Raspberry Pi Zero2!
 - eingebautes GPS (unabhängig von Smartphone)
 - live Abstand wird per universellem bluetooth heart rate value gestreamt (kein Einwählen in einen hotspot mehr notwendig)
 - weitere live Infos über eigenen bluetooth Service
@@ -12,7 +12,9 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
 - leichter Zugang zur sd Karte
 - usb-c anschluss, um während der Fahrt die Reichweite zu erhöhen
 
- <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
+ <img src="Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
+ <img src="Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
+ <img src="Features - 3 - hinten.png" alt="Dashcam - Features - oben" width="600">
  
 
 
