@@ -22,9 +22,8 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
  
 
 
+# 
 ----- Das ist die erste, veröffentlichte Version der Dashcam. Sie enthält noch Bugs und Verbesserungsmöglichkeiten, die demnächst bearbeitet werden ---------  
-
-
 # Kurzbeschreibung
 <img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
  
