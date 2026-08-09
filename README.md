@@ -1,4 +1,5 @@
-update 09.08.2026: Version 2 kommt!
+# update 09.08.2026: Version 2 kommt!
+ <img src="Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
 eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
 - Wechsel vom Pi 5 auf den Raspberry Pi Zero2!
 - eingebautes GPS (unabhängig von Smartphone)
