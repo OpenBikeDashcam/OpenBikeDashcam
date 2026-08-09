@@ -1,3 +1,8 @@
+update 09.08.2026
+eine neue Version steht kurz vor der Veröffentlichung. Hier die main features: 
+
+
+
 ----- Das ist die erste, veröffentlichte Version der Dashcam. Sie enthält noch Bugs und Verbesserungsmöglichkeiten, die demnächst bearbeitet werden ---------  
 
 
