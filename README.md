@@ -8,13 +8,15 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
   GPS fix, GPS Satellitenanzahl, freier Speicher auf microSD Karte)
 - 3 User Taster zur eigenen Verwendung (jeder Taster speichert aktuelles Videosegment)
 - Gehäuse mit quick-release Mechanismus
+- Sicherheit: Das Rücklicht ist auch seitlich deutlich sichtbar
 - Power-Button
 - leichter Zugang zur sd Karte
-- usb-c anschluss, um während der Fahrt die Reichweite zu erhöhen
+- usb-c Anschluss, um während der Fahrt die Reichweite zu erhöhen
 
  <img src="Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
  <img src="Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
- <img src="Features - 3 - hinten.png" alt="Dashcam - Features - oben" width="600">
+ <img src="Features - 3 - hinten.png" alt="Dashcam - Features - usb-c Anschluss, range extender" width="600">
+ <img src="Features - 3 - quick release.gif" alt="Dashcam - Features - quick release" width="600">
  
 
 
