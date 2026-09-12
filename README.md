@@ -1,3 +1,10 @@
+## unterstützen
+gerne könnte ihr das Projekt unter folgendem Link mit einer "Spende" unterstützen.
+
+[paypal.me/OpenBikeDashcam](paypal.me/OpenBikeDashcam)
+
+<sub>*Hinweis: Es handelt sich bei Zahlungen über den angegebenen Link um eine freiwillige finanzielle Zuwendung ohne Gegenleistung. Der Code und jegliche Bauanleitungen können unter dem unten stehenden link kostenfrei heruntergeladen und verwendet werden. "Spende" steht daher in Anführungszeichen, weil ich kein Verein bin und es sich daher nicht um eine Spende im rechtlichen Sinne handelt.*</sub>
+
 # update 09.08.2026: Version 2 kommt!
  <img src="Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
 eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
