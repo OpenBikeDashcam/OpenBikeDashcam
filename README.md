@@ -1,5 +1,5 @@
 ## unterstützen
-gerne könnte ihr das Projekt unter folgendem Link mit einer "Spende" unterstützen.
+Ich entwickle die Dashcam in meiner Freizeit und auf eigene Kosten. Wenn ihr mich und das Projekt unterstützen wollt, freue ich mich über eine kleine "Spende" über den folgenden Link.
 
 [paypal.me/OpenBikeDashcam](paypal.me/OpenBikeDashcam)
 
