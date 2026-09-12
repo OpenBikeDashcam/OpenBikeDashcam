@@ -6,7 +6,7 @@ gerne könnte ihr das Projekt unter folgendem Link mit einer "Spende" unterstüt
 <sub>*Hinweis: Es handelt sich bei Zahlungen über den angegebenen Link um eine freiwillige finanzielle Zuwendung ohne Gegenleistung. Der Code und jegliche Bauanleitungen können unter dem unten stehenden link kostenfrei heruntergeladen und verwendet werden. "Spende" steht daher in Anführungszeichen, weil ich kein Verein bin und es sich daher nicht um eine Spende im rechtlichen Sinne handelt.*</sub>
 
 # update 09.08.2026: Version 2 kommt!
- <img src="Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
+ <img src="/images/Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
 eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
 
 - Wechsel vom Pi 5 auf den Raspberry Pi Zero2!
@@ -22,17 +22,17 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
 - leichter Zugang zur sd Karte
 - usb-c Anschluss, um während der Fahrt die Reichweite zu erhöhen
 
- <img src="Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
- <img src="Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
- <img src="Features - 3 - hinten.png" alt="Dashcam - Features - usb-c Anschluss, range extender" width="600">
- <img src="Features - 3 - quick release.gif" alt="Dashcam - Features - quick release" width="600">
+ <img src="/images/Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
+ <img src="/images/Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
+ <img src="/images/Features - 3 - hinten.png" alt="Dashcam - Features - usb-c Anschluss, range extender" width="600">
+ <img src="/images/Features - 3 - quick release.gif" alt="Dashcam - Features - quick release" width="600">
  
 
 
 # 
 ----- Das ist die erste, veröffentlichte Version der Dashcam. Sie enthält noch Bugs und Verbesserungsmöglichkeiten, die demnächst bearbeitet werden ---------  
 # Kurzbeschreibung
-<img src="OpenBikeDashcam.jpg" alt="Dashcam" width="800">
+<img src="/images/OpenBikeDashcam.jpg" alt="Dashcam" width="800">
  
 Die hier hoch geladene Dashcam ist als klassische Dashcam und speziell für Fahrräder konzipiert. Als Hardware wird ein Raspberry Pi 5 (CM5) verwendet. Darüber hinaus ist es aber auch eine Entwicklungsbasis für eure eigenen Projekte/Forschungsprojekte. Die Hardware kann selbst aufgebaut und angepasst werden. Die Daten können exportiert und analysiert werden. Alles, auch der Code ist offen zugänglich und kann für die eigenen Projekte verändert werden. Erweiterung durch Taster, Sensoren, etc. ist alles möglich. 
 
