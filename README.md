@@ -3,7 +3,7 @@ Ich entwickle die Dashcam in meiner Freizeit und auf eigene Kosten. Wenn ihr mic
 
 [paypal.me/OpenBikeDashcam](paypal.me/OpenBikeDashcam)
 
-<sub>*Hinweis: Es handelt sich bei Zahlungen über den angegebenen Link um eine freiwillige finanzielle Zuwendung ohne Gegenleistung. Der Code und jegliche Bauanleitungen können unter dem unten stehenden link kostenfrei heruntergeladen und verwendet werden. "Spende" steht daher in Anführungszeichen, weil ich kein Verein bin und es sich daher nicht um eine Spende im rechtlichen Sinne handelt.*</sub>
+<sub>*Hinweis: Es handelt sich bei Zahlungen über den angegebenen Link um eine freiwillige finanzielle Zuwendung ohne Gegenleistung. Der Code und jegliche Bauanleitungen können unter Berücksichtigung der u.s. Lizenz kostenfrei heruntergeladen und verwendet werden. "Spende" steht daher in Anführungszeichen, weil ich kein Verein bin und es sich daher nicht um eine Spende im rechtlichen Sinne handelt.*</sub>
 
 # update 09.08.2026: Version 2 kommt!
  <img src="/images/Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
