@@ -22,7 +22,7 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
 - leichter Zugang zur sd Karte
 - usb-c Anschluss, um während der Fahrt die Reichweite zu erhöhen
 
- <img src="/images/Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
+ <img src="images/Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
  <img src="/images/Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
  <img src="/images/Features - 3 - hinten.png" alt="Dashcam - Features - usb-c Anschluss, range extender" width="600">
  <img src="/images/Features - 3 - quick release.gif" alt="Dashcam - Features - quick release" width="600">
