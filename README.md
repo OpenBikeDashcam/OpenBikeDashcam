@@ -1,5 +1,5 @@
 ## unterstützen
-*Ich entwickle die Dashcam in meiner Freizeit. Neben der Arbeitszeit am Projekt trage ich alle Kosten selbst, um z.B. verschiedene Sensoren und Komponenten zu testen, viele Gehäusevarianten zu drucken, Schäden zu ersetzen,.... Wenn ihr mich und das Projekt unterstützen wollt, freue ich mich über eine kleine "Spende" über den folgenden Link.*
+*Ich entwickle die Dashcam in meiner Freizeit. Zusätzlich zur Arbeitszeit am Projekt trage ich alle Kosten selbst, um z.B. verschiedene Sensoren und Komponenten zu testen, viele Gehäusevarianten zu drucken, Schäden zu ersetzen,.... Wenn ihr mich und das Projekt unterstützen wollt, freue ich mich über eine kleine "Spende" über den folgenden Link.*
 
 [paypal.me/OpenBikeDashcam](paypal.me/OpenBikeDashcam)
 
