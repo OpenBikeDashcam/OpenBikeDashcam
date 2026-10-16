@@ -5,6 +5,11 @@
 
 <sub>*Hinweis: Es handelt sich bei Zahlungen über den angegebenen Link um eine freiwillige finanzielle Zuwendung ohne Gegenleistung. Der Code und jegliche Bauanleitungen können unter Berücksichtigung der u.s. Lizenz kostenfrei heruntergeladen und verwendet werden. "Spende" steht daher in Anführungszeichen, weil ich kein Verein bin und es sich daher nicht um eine Spende im rechtlichen Sinne handelt.*</sub>
 
+# update 16.10.2026: volle Kompatibilität zum Open Bike Sensor
+- im OBS-Modus wird per Taste 3 der Überholvorgang bestätigt. Die Sicherung eines Videosegmentes wird nicht über den Abstandswert ausgelöst, sondern nur über einen Tastendruck getriggert.
+  (Normaler Modus: speichern wenn Abstand zu gering ODER Taster1/2/3 gedrückt wurden)
+- export einer CSV Datei im Open Bike Sensor Format
+  
 # update 09.08.2026: Version 2 kommt bald!
  <img src="/images/Beispielvideo.gif" alt="open Bike Dashcam Beispielvideo" width="600">
 eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features: 
@@ -15,12 +20,13 @@ eine neue Version steht kurz vor der Veröffentlichung. Hier die haupt-features:
 - weitere live Infos über eigenen bluetooth Service
   (gewähltes Fahrrad, überholabstand, Geschwindigkeit, status der 3 user Taster,
   GPS fix, GPS Satellitenanzahl, freier Speicher auf microSD Karte)
-- 3 User Taster zur eigenen Verwendung (jeder Taster speichert aktuelles Videosegment)
+- 3 User Taster zur eigenen Verwendung (jeder Taster speichert aktuelles Videosegment. Der Status wird mit getrackt)
 - Gehäuse mit quick-release Mechanismus
-- Sicherheit: Das Rücklicht ist auch seitlich deutlich sichtbar
-- Power-Button
+- Sicherheit: auch seitlich deutlich sichtbares Rücklicht
+- Power-Button zum sauberen Herunterfahren inkl. Power LED
 - leichter Zugang zur sd Karte
 - usb-c Anschluss, um während der Fahrt die Reichweite zu erhöhen
+- LED Anzeige zum Akkustand
 
  <img src="images/Features - 1 - seite.png" alt="Dashcam - Features - Seite" width="600">
  <img src="/images/Features - 2 - oben vorne.png" alt="Dashcam - Features - oben" width="600">
